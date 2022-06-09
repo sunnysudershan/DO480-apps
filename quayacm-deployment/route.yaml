@@ -7,7 +7,7 @@ metadata:
   name: budget-app
   namespace: budget-app-dev
 spec:
-  host: budget.apps.ocp4.example.com
+  host: budget.apps.ocp.us.kpmg.com
   path: "/"
   to:
     kind: Service
